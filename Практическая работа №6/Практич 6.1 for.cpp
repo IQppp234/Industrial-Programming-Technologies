@@ -1,4 +1,4 @@
-# Решение с циклом for
+// Решение с циклом for
 #include <iostream>
 using namespace std;
 
