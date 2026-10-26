@@ -1,3 +1,4 @@
+# Решение с циклом for
 #include <iostream>
 using namespace std;
 
