@@ -1,3 +1,4 @@
+// 2 задача
 #include <iostream>
 using namespace std;
 
