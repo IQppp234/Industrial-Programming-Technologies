@@ -1,3 +1,4 @@
+// Решение 1 задачи циклом for:
 #include <iostream>
 using namespace std;
 
