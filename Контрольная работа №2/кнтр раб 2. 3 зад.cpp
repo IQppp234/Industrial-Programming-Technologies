@@ -1,3 +1,4 @@
+// 3 задание
 #include <iostream>
 using namespace std;
 
