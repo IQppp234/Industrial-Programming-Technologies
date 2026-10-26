@@ -1,4 +1,4 @@
-// Решение циклом while:
+// Задание 1. Решение циклом while:
 #include <iostream>
 using namespace std;
 
