@@ -1,3 +1,4 @@
+// 3 задача
 #include <iostream>
 #include <string>
 using namespace std;
@@ -18,7 +19,7 @@ string nextTerm(string s) {
     return result;
 }
 
-// рекурсия: n-ый член = следующий после (n-1)-го
+// рекурсия: n-ый член = следующий после (n-1)
 string get(string x, int n) {
     if (n == 1) {
         return x;
